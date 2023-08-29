@@ -1,0 +1,123 @@
+h1{
+background-color: yellow;
+text-align: center;
+font-weight: bolder;
+font-size: 60px;
+font-style: italic;
+
+}
+
+.container,td{
+    border: 1px solid black;
+    margin: auto;
+    padding: 10px;
+    
+}
+td{
+    width: 100px;
+    height: 70x;
+    empty-cells: hide;
+
+}
+
+
+
+.orange{
+    background-color: orange;
+    text-align: center;
+}
+.light-grey{
+    background-color: lightgray;
+    text-align: center;
+    color: green;
+}
+.orange-green{
+    background-color: orange;
+    color: green;
+}
+.brown{
+    background-color:rgba(241, 144, 52, 0.836);
+    text-align: center;
+    
+}
+.light-yellow{
+    background-color: rgb(246, 215, 12);
+    color: green;
+    text-align: center;
+}
+.pink{
+    background-color: pink;
+    text-align: center;
+}
+.lightgreen{
+    background-color: rgb(145, 241, 145);
+}
+.blue{
+    background-color: rgba(58, 91, 121, 0.414);
+    text-align: center;
+}
+.yellow{
+    background-color:yellow;
+    text-align: center;
+
+}
+.light-green-blue{
+    background-color: rgb(146, 239, 146);
+    color: rgb(40, 40, 219);
+}
+.light-yellow-blue{
+    background-color:yellow ;
+    color: blue;
+    text-align: center;
+}
+.yellow-red{
+    background-color:yellow;
+    color: red;
+    text-align: center;
+}
+.pink-blue{
+    background-color: pink;
+    color: blue;
+    text-align: center;
+}
+
+.payawhip{
+    background-color:papayawhip;
+    text-align:center;
+}
+
+.light-green{
+    background-color: rgba(73, 244, 54, 0.94);
+    text-align: center;
+}
+.brown{
+    background-color: burlywood;
+    text-align: center;
+}
+.white-red{
+    background-color:white;
+    color:red;
+    text-align: center;
+}
+
+.container,td{
+    border: 2px solid black;
+    margin: auto;
+    padding: 10px;
+    
+}
+td{
+    width: 100px;
+    height: 70x;
+    empty-cells: hide;
+
+
+
+ }
+
+.payawhip-red{
+    background-color: papayawhip;
+    color: red;
+    text-align: center;
+}
+
